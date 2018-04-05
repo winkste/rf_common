@@ -1,0 +1,14 @@
+VerifyMessage       KEYWORD1
+GetToNodeId         KEYWORD1
+GetFromNodeId       KEYWORD1
+GetMsgTypeId        KEYWORD1
+GetMsgData          KEYWORD1
+InitializeMessage   KEYWORD1
+SetToNodeId         KEYWORD1
+SetFromNodeId       KEYWORD1
+SetMsgTypeId        KEYWORD1
+SetMsgData          KEYWORD1
+CalculateChkSum     KEYWORD1
+GetRawData          KEYWORD1
+SetRawData          KEYWORD1
+msg_t               KEYWORD1
